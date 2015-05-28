@@ -1,0 +1,29 @@
+{
+    "name": "sorteoPremioUnico",
+    "version": "1.0.0",
+    "homepage": "https://github.com/ignaciohita/sorteoPremioUnico",
+    "description": "Ejemplo del libro: un sistema sencillo que devuelve un premio de una lista",
+    "main": "app/index.html",
+    "moduleType": [
+    "globals"
+  ],
+    "keywords": [
+    "angularJS",
+    "example",
+    "learning"
+  ],
+    "authors": [
+    "Jose Ignacio Hita <ignaciohita@gmail.com>"
+  ],
+    "license": "MIT",
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+        "angular": "~1.3.15"
+    }
+}
